@@ -1,2 +1,2 @@
 # Cadastro
-Cadastro com validação, filtro de erro, com html, css e js
+Cadastro com validação, filtro de erro, html, css e js
